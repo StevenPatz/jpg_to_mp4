@@ -1,4 +1,5 @@
 #!/bin/bash
+# TODO
 date=`date +%F`
 if [ "$#" -lt "1" ]
   then echo
